@@ -1,4 +1,3 @@
-# br
 
 Calculadora de IMC para aprendizado de Flutter
 
